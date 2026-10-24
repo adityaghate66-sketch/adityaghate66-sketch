@@ -21,7 +21,7 @@
 
 ```js
 const aditya = {
-  studying: "Mechatronics",
+  studying: "CSE-AI/Ml",
   building: ["Full-stack apps with the MERN stack"],
   exploring: ["Python", "AI / ML", "Data-driven solutions"],
   curiousAbout: ["Three.js", "Automation", "Hardware-software integration"],
@@ -111,11 +111,10 @@ Small projects to practise JavaScript, logic, and frontend development.
 
 <br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=adityaghate66-sketch&hide_border=true&background=0D1117&ring=C4B5FD&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityaghate66-sketch&bg_color=0d1117&color=c4b5fd&line=7c5cff&point=ffffff&area=true&area_color=4f2de8&hide_border=true" alt="Contribution activity graph"/>
+
 
 </div>
 
